@@ -12,9 +12,11 @@ This is the repo hub for the computational projects used by the class AOSC614: N
 ## Projects included
 - Lorenz63 project
 
+## Projects under development
+- Lyapunov/Bred/Singular vector project
+- Coupled DA project
 
 ## Projects to be developed
 - Lorenz96 project
 - QG project
-- coupled DA project
 - Radiative transfer project
